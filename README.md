@@ -6,7 +6,7 @@ PTSD stands for Post-Traumatic Stress Disorder.
 
 How did Ancient warriors deal with Post Traumatic Stress Disorder?
 
-<img src="https://i.ibb.co/f2VrFMG/spartan-g65679c445-1297x1920-2.jpg" alt="spartan-g65679c445-1297x1920-2" width="1297" height="1920" data-is360="0" data-load="full" class="cursor-zoom-in" style="width: 491.779px; height: 728px;">
+<img src="https://i.ibb.co/f2VrFMG/spartan-g65679c445-1297x1920-2.jpg" alt="spartan-g65679c445-1297x1920-2" width="650" height="910" data-is360="0" data-load="full" class="cursor-zoom-in" style="width: 491.779px; height: 728px;">
 
 “My past is an armor I cannot take off, no matter how many times you tell me the war is over.” - unknown
 
