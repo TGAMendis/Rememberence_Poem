@@ -4,11 +4,11 @@ PTSD stands for Post-Traumatic Stress Disorder.
 
 "It requires that the event cause the person great psychological trauma. All minds aren’t the same. All people don’t deal with crises in the same manner. All things of the mind tend to start from your point of view and reference."
 
-How did Ancient warriors deal with Post Traumatic Stress Disorder?
+# How did Ancient warriors deal with Post Traumatic Stress Disorder?
 
 <img src="https://i.ibb.co/f2VrFMG/spartan-g65679c445-1297x1920-2.jpg" alt="spartan-g65679c445-1297x1920-2" width="650" height="910" data-is360="0" data-load="full" class="cursor-zoom-in" style="width: 491.779px; height: 728px;">
 
-“My past is an armor I cannot take off, no matter how many times you tell me the war is over.” - unknown
+# “My past is an armor I cannot take off, no matter how many times you tell me the war is over.” - unknown
 
 Post-Traumatic Stress Disorder (PTSD) is often thought to have arisen with the advent of mechanized warfare—think shell shock and the First World War—but the examination of ancient texts offers sufficient evidence that PTSD may be as old as the act of war itself. This raises the question of how might have ancient cultures dealt with PTSD in their soldiers and, more importantly, whether any lessons can be drawn from these experiences.
 
